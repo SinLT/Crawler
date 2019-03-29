@@ -1,0 +1,6 @@
+[submodule "CrawlerAdmin"]
+	path = CrawlerAdmin
+	url = ../../iview/iview-admin.git
+[submodule "adminMongo"]
+	path = adminMongo
+	url = ../../mrvautin/adminMongo
